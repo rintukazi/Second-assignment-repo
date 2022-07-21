@@ -23,7 +23,7 @@ main{
     justify-content: center;
 }
 .container{
-    width: 900px;
+    max-width: 900px;
     margin-bottom: 50px;
 
 }
